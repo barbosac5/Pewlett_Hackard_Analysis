@@ -29,3 +29,4 @@ This table was used for the beginning of Deliverable 1 and it shows that some em
 
 
 ## Resources
+pgAdmin Version 6.8

@@ -22,6 +22,9 @@ For Deliverable 2, I was tasked to create a mentorship-eligibility table that ho
 ![Mentorship-Eligibility](./Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis-Folder/mentorship_eligibility.png)
 
 ## Summary
+#### Retirement Titles
+![Retirement_Titles](./Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis-Folder/retirement_titles.png)
+
 
 
 ## Resources

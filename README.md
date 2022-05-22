@@ -14,7 +14,9 @@ For Deliverable 1, I had to create tables that hold all the titles of the employ
 ![Retiring_Titles](./Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis-Folder/retiring_titles.png)
 
 ### Takeaways from Deliverable 2
-
+For Deliverable 2, I was tasked to create a mentorship-eligibility table that holds the current employees born between January 1, 1965 and December 31, 1965. 
+-In this table, there are 1541 employees that are eligible for a mentorship program. Immediately I noticed that due to the table only containing employees born in the year 1965, this table has potential to have much more data of those eligible to participate in the program. An example, would be to not have a restriction based on the birth year. If Pewlett-Hackard allowed not just experienced, but younger employees to participate in this program, there can be even more eligible for the mentorship program.
+-Going off the first observation, I also saw that when looking at the mentorship table, there were a lot of senior positions that are eligible to be mentors. I think this can provide an in house training system where before these current employees retire, they can share what they know throughout there time at Pewlett-Hackard. They can teach the younger generation a few tips and tricks to be more productive workers as well as provide insight on how to be a better employee. This can be done in the form of seminars or conferences/assemblies within the company. If done correctly, this can be an endless loop of the older generation teaching the young and can have a continuous stream of experience flow throughout the company.  
 
 #### Mentorship-Eligibility 
 ![Mentorship-Eligibility](./Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis-Folder/mentorship_eligibility.png)

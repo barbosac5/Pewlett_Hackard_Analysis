@@ -24,6 +24,7 @@ For Deliverable 2, I was tasked to create a mentorship-eligibility table that ho
 ## Summary
 #### Retirement Titles
 ![Retirement_Titles](./Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis-Folder/retirement_titles.png)
+This table was used for the beginning of Deliverable 1 and it shows that some employees went through "title changes" throughout their time at Pewlett-Hackard. AN example of this is when Christian Koblick became a senior engineer at the end of 1995. As more and more employees begin to become senior members, I think it is important to have the younger generation take up the mantle and fill in for those who have moved up the corprate ladder and as well as those who retire. I believe this is something that needs to be looked into for when we have retirees (as part of the "silver tsunami") who leave and cause gaps within the company. 
 
 
 

@@ -14,7 +14,7 @@ This brings me to a similar detail where other positions (such as Assistant Engi
 ![Retiring_Titles](./Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis-Folder/retiring_titles.png)
 
 ### Takeaways from Deliverable 2
-For Deliverable 2, I was tasked to create a mentorship-eligibility table that holds the current employees born between January 1, 1965 and December 31, 1965.
+For Deliverable 2, I was tasked to create a mentorship-eligibility table that holds the current employees born between January 1, 1965 and December 31, 1965. In this table, there are 1541 employees that are eligbile for a mentorship program. 
 
 #### Mentorship-Eligibility 
 ![Mentorship-Eligibility](./Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis-Folder/mentorship_eligibility.png)

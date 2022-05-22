@@ -11,7 +11,7 @@ According to the data, there are 90,398 total positions that will be available d
 This brings me to a similar detail where other positions (such as Assitant Engineer) are vastly overshadowed by the need of Engineers. According to my data, there are 1761 retirees for Assistant Engineer and over 14,221 retirees as Engineers. Like with the managers, I wonder why there is such a large amount of engineers retiring with so few assistant engineers. Perhaps the Assistant Engineers who are still working can help fill the need of engineers when they retire.
 
 #### Retiring Titles 
-![Retiring_Titles](./Pewlett-Hackard-Analysis/retiring_titles.png))
+![Retiring_Titles](./Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis-Folder/retiring_titles.png)
 
 ### Takeaways from Deliverable 2
 

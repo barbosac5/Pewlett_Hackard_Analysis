@@ -27,12 +27,15 @@ For Deliverable 2, I was tasked to create a mentorship-eligibility table that ho
 ## Summary
 #### Retirement Titles
 ![Retirement_Titles](./Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis-Folder/retirement_titles.png)
+
 This table was used for the beginning of Deliverable 1 and it shows that some employees went through "title changes" throughout their time at Pewlett-Hackard. An example of this is when Christian Koblick became a senior engineer at the end of 1995 when previously, he was classified as an engineer. As more and more employees begin to become senior members, I think it is important to have the younger generation take up the mantle and fill in for those who have moved up the corporate ladder and as well as those who retire. Those who are currently in Assistant positions (such as Assistant Engineer) can rise up to be Engineers and those who are currently enginers can become Senior Engineers if they have the proper credentials and expereince. I believe this is something that needs to be looked into for when we have retirees (as part of the "silver tsunami") who leave and cause gaps within the company. 
 
 #### Unique Titles
 ![Unique_Titles](./Pewlett-Hackard-Analysis/Pewlett-Hackard-Analysis-Folder/unique_titles.png)
+
 Based on the vast amount of employees retiring, the "silver tsunami" will have a very large impact on Pwelett-Hackard. As stated above there are about 90,398 employees who are eligible for retirement (across all positions) and in addition, the mentorship program only has about 1,549 employees eligible. That is about 58 employees per mentor which does not seem logical in a corporate setting. The only thing that can be done at this time to deal with the impact is to have more employees be eligible to become mentors. One way this can be done is to widen the requeirments to perhaps include more people who were born in 1966 - 1970. While these employees will be younger, they could have just as much or maybe even more experience than some who were born in 1965 alone. Even if this turns out to be false, having more employees to provide help with the enevitabe mass retirement should be welcome. We can have the new hires quickly and efficiently grasp how the company works and how to be efficient as possible. Even getting some outside help in the same field as well as provide more opportunities for mentors to be eligible (as stated in Deliverable 2), can lessen the load on the current mentors to make sure that the next generation is prepared to step in the engineering world of Pewlett-Hackard. 
 
 ## Resources
 -pgAdmin version 6.8
+
 -postgress version 11.16 
